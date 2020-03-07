@@ -1,0 +1,10 @@
+/target/
+*.iml
+logs/
+.idea/
+*/target/
+*.jar
+*.classpath
+*.project
+*.attach_pid*
+*.settings/
