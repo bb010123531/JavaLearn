@@ -16,7 +16,7 @@
         <httpclient.version>4.5.1</httpclient.version>
         <lang3.version>3.4</lang3.version>
         <guava.version>18.0</guava.version>
-        <gson.version>2.2.4</gson.version>
+        <gson.version>2.8.9</gson.version>
         <rabbit.version>1.6.6.RELEASE</rabbit.version>
 
         <spring.boot.starter.jdbc.version>1.4.0.RELEASE</spring.boot.starter.jdbc.version>
